@@ -1,0 +1,17 @@
+C:\Users\g_b_r\Documents\repositorioVs\LP3-Cineteca\MyProject.DAL\bin\Debug\net8.0\MyProject.DAL.deps.json
+C:\Users\g_b_r\Documents\repositorioVs\LP3-Cineteca\MyProject.DAL\bin\Debug\net8.0\MyProject.DAL.runtimeconfig.json
+C:\Users\g_b_r\Documents\repositorioVs\LP3-Cineteca\MyProject.DAL\bin\Debug\net8.0\MyProject.DAL.dll
+C:\Users\g_b_r\Documents\repositorioVs\LP3-Cineteca\MyProject.DAL\bin\Debug\net8.0\MyProject.DAL.pdb
+C:\Users\g_b_r\Documents\repositorioVs\LP3-Cineteca\MyProject.DAL\obj\Debug\net8.0\MyProject.DAL.csproj.AssemblyReference.cache
+C:\Users\g_b_r\Documents\repositorioVs\LP3-Cineteca\MyProject.DAL\obj\Debug\net8.0\MyProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g_b_r\Documents\repositorioVs\LP3-Cineteca\MyProject.DAL\obj\Debug\net8.0\MyProject.DAL.AssemblyInfoInputs.cache
+C:\Users\g_b_r\Documents\repositorioVs\LP3-Cineteca\MyProject.DAL\obj\Debug\net8.0\MyProject.DAL.AssemblyInfo.cs
+C:\Users\g_b_r\Documents\repositorioVs\LP3-Cineteca\MyProject.DAL\obj\Debug\net8.0\MyProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\g_b_r\Documents\repositorioVs\LP3-Cineteca\MyProject.DAL\obj\Debug\net8.0\MyProject.DAL.dll
+C:\Users\g_b_r\Documents\repositorioVs\LP3-Cineteca\MyProject.DAL\obj\Debug\net8.0\refint\MyProject.DAL.dll
+C:\Users\g_b_r\Documents\repositorioVs\LP3-Cineteca\MyProject.DAL\obj\Debug\net8.0\MyProject.DAL.pdb
+C:\Users\g_b_r\Documents\repositorioVs\LP3-Cineteca\MyProject.DAL\obj\Debug\net8.0\MyProject.DAL.genruntimeconfig.cache
+C:\Users\g_b_r\Documents\repositorioVs\LP3-Cineteca\MyProject.DAL\obj\Debug\net8.0\ref\MyProject.DAL.dll
+C:\Users\g_b_r\Documents\repositorioVs\LP3-Cineteca\MyProject.DAL\bin\Debug\net8.0\MyProject.MODEL.dll
+C:\Users\g_b_r\Documents\repositorioVs\LP3-Cineteca\MyProject.DAL\bin\Debug\net8.0\MyProject.MODEL.pdb
+C:\Users\g_b_r\Documents\repositorioVs\LP3-Cineteca\MyProject.DAL\obj\Debug\net8.0\MyProject.DAL.csproj.CopyComplete
